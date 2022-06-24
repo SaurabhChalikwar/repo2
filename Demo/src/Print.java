@@ -4,6 +4,7 @@ public class Print {
 	public static void main(String[] args) {
 
 		System.out.println("inside Print class");
+		System.out.println("--------------------");
 	}
 
 }
